@@ -1,0 +1,52 @@
+ /* Background colors */
+
+.bg-1{
+    background-color: #562C2C;
+}
+.bg-accent{
+    background-color: #F2542D;
+}
+.bg-3{
+    background-color: #F5DFBB;
+}
+.bg-4{
+    background-color: #0E9594;
+}
+.bg-5{
+    background-color: #127475;
+}
+
+/* Text colors */
+
+.text-white{
+    color: #FFFFFF;
+}
+.text-black{
+    color: black
+}
+.text-accent{
+    color: #F2542D
+}
+.text-accent a {
+    color: #F2542D
+}
+.text-accent a:hover {
+    color: #E5E5E5;
+}
+
+
+.ps-light{
+    background: #0E9594;
+    width: 100%;
+}
+.ps-dark{
+    background: #127475;
+    width: 100%;
+}
+
+
+header{
+    overflow: hidden;
+    width: 100%;
+    height: 400px;
+}
